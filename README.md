@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Web Developer | MERN Stack Learner | CIT Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;MERN+Stack+Developer;Node.js+Learner;MongoDB+Developer;Open+to+Work" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Developing+Modern+Web+Interfaces;Learning+Full+Stack+Technologies;Developing+Scalable+Web+Solutions;Turning+Ideas+Into+Real+Projects" />
 </p>
 
 ---
