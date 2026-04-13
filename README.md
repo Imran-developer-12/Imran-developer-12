@@ -27,7 +27,7 @@
 
 ### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 </p>
 
 ---
