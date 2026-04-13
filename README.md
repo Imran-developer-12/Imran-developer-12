@@ -1,18 +1,34 @@
 <h1 align="center">Hi 👋, I'm Muhammad Imran</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Learner | CIT Student</h3>
+<h3 align="center">Full Stack Web Developer | CIT Student | MERN Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Building+Modern+Web+Interfaces;Developing+Scalable+Web+Solutions;Ready+for+New+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Building+Responsive+Web+Interfaces;Learning+MERN+Stack;Open+for+Opportunities" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 💻 Frontend Web Developer (HTML, CSS, JavaScript)
-- ⚙️ Skilled in Node.js & MongoDB
-- 🚀 Building real-world web applications
-- 🧠 Strong problem-solving & logic building
-- 🤝 Available for internships & freelance work
+
+- 🎓 Studying **Computer Information Technology (CIT)**
+- 💻 Working as a **Full Stack Web Developer**
+- 🎨 Skilled in **HTML, CSS, JavaScript, Bootstrap**
+- ⚙️ Also building logic with **C++ (OOP)**
+- 🚀 Passionate about creating **modern, responsive UI**
+- 🔭 Currently working on **JavaScript projects**
+- 🌱 Learning **MERN Stack Development**
+- 🤝 Open for **internships & freelance work**
+
+☕ Coding with focus & consistency  
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-i-7a391b3a9">🔗 LinkedIn</a> • 
+  <a href="https://muhammad-imran-dev.netlify.app">🌐 Portfolio</a> • 
+  <a href="mailto:imrancit104@gmail.com">📧 Email</a> • 
+</p>
 
 ---
 
@@ -48,7 +64,7 @@
 
 ## 🚀 Projects
 
-🔹 **College Website**  
+🔹 **College Websites**  
 ➡️ HTML, CSS, JavaScript  
 [🔴 Live](https://gctbhakkar.netlify.app/) | [💻 Repo](https://github.com/Imran-developer-12/gct-website)
 
@@ -60,9 +76,16 @@
 
 ---
 
-🔹 **Tic Tac Toe Game**  
+🔹 **Tic Tac Toe Web App**  
 ➡️ HTML, CSS, JavaScript  
 [🔴 Live](https://imran-developer-12.github.io/-Tic-tac-toe-game/) | [💻 Repo](https://github.com/imran-developer-12/-Tic-tac-toe-game)
+
+---
+
+## 🎓 Academic Journey
+
+- 🏛️ **Diploma in CIT** – Govt. College of Technology *(2024 - Present)*  
+- 🏫 **SSC (Science)** *(2022 - 2024)*  
 
 ---
 
@@ -90,15 +113,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imran-developer-12&theme=onestar&no-frame=true" />
-</p>
-
----
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:imrancit104@gmail.com">📧 Email</a> • 
-  <a href="https://github.com/imran-developer-12">💻 GitHub</a>
 </p>
 
 ---
